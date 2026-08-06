@@ -7,7 +7,8 @@
 
 ## 🚀 About Me
 
-I'm an Information Systems student at Addis Ababa University with a strong interest in full-stack web development. I'm strengthening my backend development skills by building projects with Node.js, Express.js, MySQL, and React while preparing for a software development internship.
+I'm an Information Systems student at Addis Ababa University with a strong interest in full-stack web development. I'm strengthening my backend development skills by building projects with Node.js, Express.js, MySQL, and React.
+I'm currently seeking a Software Development Internship where I can contribute, learn, and grow.
 
 ---
 
