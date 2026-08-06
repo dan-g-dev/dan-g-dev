@@ -3,15 +3,10 @@
 
 💻 **Aspiring Full-Stack Developer | React & Node.js**
 
-🎓 **Information Systems Student at Addis Ababa University**
+--
+## 🚀 About Me
 
-Currently learning and improving:
-- Node.js & Express.js
-- MySQL Database Design
-- React Development
-- REST API Development
-
-🎯 Seeking a Software Development Internship where I can contribute, learn, and grow.
+I'm an Information Systems student at Addis Ababa University with a strong interest in full-stack web development. I'm strengthening my backend development skills by building projects with Node.js, Express.js, MySQL, and React while preparing for a software development internship.
 
 ---
 
@@ -23,7 +18,6 @@ Currently learning and improving:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -32,9 +26,8 @@ Currently learning and improving:
 
 ### **Additional Skills**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
 ---
@@ -42,16 +35,24 @@ Currently learning and improving:
 
 - 🔹 Building complete full-stack applications
 - 🔹 Creating and consuming REST APIs
-- 🔹 Improving backend architecture with Node.js and Express.js
+- 🔹 Strengthening backend development with Node.js and Express.js
 - 🔹 Designing better database structures
 - 🔹 Writing cleaner and more scalable code
+
+---
+## 📈 2026 Goals
+
+- Complete the MERN stack fundamentals
+- Build production-ready projects
+- Secure a software development internship
+- Contribute to open-source projects
 
 ---
 
 ## 🌐 Let's Connect 
 - 🔗 **Portfolio**: [coming soon](https://Dan_g_dev)
 - ✈️ **Telegram**: [@Dan_g_dev](https://t.me/dan_g_dev)
-- 💼 **GitHub**: [@Dan-g-dev](https://github.com/dan-g-dev)
+- 💼 **Linkedin**: [@Dan-g-dev](https://github.com/dan-g-dev)
 
 ---
 
